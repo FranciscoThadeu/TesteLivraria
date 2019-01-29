@@ -1,0 +1,8 @@
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\b\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.deps.json
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\b\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.dll
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.csprojAssemblyReference.cache
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.csproj.CoreCompileInputs.cache
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.AssemblyInfoInputs.cache
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.AssemblyInfo.cs
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.csproj.CopyComplete
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.dll

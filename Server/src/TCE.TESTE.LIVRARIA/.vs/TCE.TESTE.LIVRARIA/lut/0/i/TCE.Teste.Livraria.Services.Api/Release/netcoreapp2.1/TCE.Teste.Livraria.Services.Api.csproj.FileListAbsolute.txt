@@ -1,0 +1,14 @@
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\b\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\appsettings.json
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\b\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\TCE.Teste.Livraria.Services.Api.deps.json
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\b\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\TCE.Teste.Livraria.Services.Api.runtimeconfig.json
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\b\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\TCE.Teste.Livraria.Services.Api.runtimeconfig.dev.json
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\b\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\TCE.Teste.Livraria.Services.Api.dll
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\TCE.Teste.Livraria.Services.Api.csprojAssemblyReference.cache
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\TCE.Teste.Livraria.Services.Api.csproj.CoreCompileInputs.cache
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\TCE.Teste.Livraria.Services.Api.RazorAssemblyInfo.cache
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\TCE.Teste.Livraria.Services.Api.RazorAssemblyInfo.cs
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\TCE.Teste.Livraria.Services.Api.AssemblyInfoInputs.cache
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\TCE.Teste.Livraria.Services.Api.AssemblyInfo.cs
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\TCE.Teste.Livraria.Services.Api.RazorTargetAssemblyInfo.cache
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\TCE.Teste.Livraria.Services.Api.csproj.CopyComplete
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Services.Api\Release\netcoreapp2.1\TCE.Teste.Livraria.Services.Api.dll

@@ -1,0 +1,8 @@
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\b\TCE.Teste.Livraria.Domain\Release\netstandard2.0\TCE.Teste.Livraria.Domain.deps.json
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\b\TCE.Teste.Livraria.Domain\Release\netstandard2.0\TCE.Teste.Livraria.Domain.dll
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Domain\Release\netstandard2.0\TCE.Teste.Livraria.Domain.csprojAssemblyReference.cache
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Domain\Release\netstandard2.0\TCE.Teste.Livraria.Domain.csproj.CoreCompileInputs.cache
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Domain\Release\netstandard2.0\TCE.Teste.Livraria.Domain.AssemblyInfoInputs.cache
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Domain\Release\netstandard2.0\TCE.Teste.Livraria.Domain.AssemblyInfo.cs
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Domain\Release\netstandard2.0\TCE.Teste.Livraria.Domain.csproj.CopyComplete
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Domain\Release\netstandard2.0\TCE.Teste.Livraria.Domain.dll

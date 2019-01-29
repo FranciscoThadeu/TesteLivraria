@@ -1,0 +1,6 @@
+E:\GITHUB\REPOSITORY\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.IOC\bin\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.IOC.deps.json
+E:\GITHUB\REPOSITORY\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.IOC\bin\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.IOC.dll
+E:\GITHUB\REPOSITORY\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.IOC\obj\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.IOC.csprojAssemblyReference.cache
+E:\GITHUB\REPOSITORY\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.IOC\obj\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.IOC.csproj.CoreCompileInputs.cache
+E:\GITHUB\REPOSITORY\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.IOC\obj\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.IOC.AssemblyInfoInputs.cache
+E:\GITHUB\REPOSITORY\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.IOC\obj\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.IOC.AssemblyInfo.cs

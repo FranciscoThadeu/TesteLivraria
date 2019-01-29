@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TCE.Teste.Livraria.Domain\TCE.Teste.Livraria.Domain.csproj" />
+    <ProjectReference Include="..\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.csproj" />
+    <ProjectReference Include="..\TCE.Teste.Livraria.Infra.Data\TCE.Teste.Livraria.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

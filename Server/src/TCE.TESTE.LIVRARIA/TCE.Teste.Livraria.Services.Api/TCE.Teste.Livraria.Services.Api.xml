@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TCE.Teste.Livraria.Services.Api</name>
+    </assembly>
+    <members>
+        <member name="M:TCE.Teste.Livraria.Services.Api.Controllers.LivrosController.Post(TCE.Teste.Livraria.Services.Api.ViewModels.LivroViewModel)">
+            <summary>
+            Incluir Livros. Permitido somente para perfil Administrador
+            </summary>
+            <param name="livroViewModel"> Isbn: Códido do sistema internacional de identificação de livros.
+            Autor: Nome do Autor do livro
+            Nome: Nome do livro
+            DataPublicacao: Data da publicação do livro
+            Valor: Preço do livro
+            ImgCapa: Imagem da capa do Livro no formato .png ou .jpg
+            </param>
+        </member>
+        <member name="M:TCE.Teste.Livraria.Services.Api.Controllers.LivrosController.Put(TCE.Teste.Livraria.Services.Api.ViewModels.LivroViewModel)">
+            <summary>
+            Atualizar Livros. Permitido somente para perfil Administrador
+            </summary>
+            <param name="livroViewModel"> Isbn: Códido do sistema internacional de identificação de livros.
+            Autor: Nome do Autor do livro
+            Nome: Nome do livro
+            DataPublicacao: Data da publicação do livro
+            Valor: Preço do livro
+            ImgCapa: Imagem da capa do Livro no formato .png ou .jpg
+            </param>
+        </member>
+        <member name="M:TCE.Teste.Livraria.Services.Api.Controllers.LivrosController.Delete(System.Guid)">
+            <summary>
+            Remover Livros. Permitido somente para perfil Administrador
+            </summary>
+            <param name="id"> Chave registro
+            </param>
+        </member>
+        <member name="M:TCE.Teste.Livraria.Services.Api.Controllers.LivrosController.Get">
+            <summary>
+            Listas todos os  Livros.
+            </summary>
+        </member>
+        <member name="M:TCE.Teste.Livraria.Services.Api.Controllers.LivrosController.Get(System.String)">
+            <summary>
+            Listas Livros por ID
+            </summary>
+            <param name="isbn"> ISBN 
+            </param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,7 @@
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\b\TCE.Teste.Livraria.Infra.CrossCutting.Utils\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.Utils.deps.json
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\b\TCE.Teste.Livraria.Infra.CrossCutting.Utils\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.Utils.dll
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Infra.CrossCutting.Utils\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.Utils.csproj.CoreCompileInputs.cache
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Infra.CrossCutting.Utils\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.Utils.AssemblyInfoInputs.cache
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Infra.CrossCutting.Utils\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.Utils.AssemblyInfo.cs
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Infra.CrossCutting.Utils\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.Utils.csproj.CopyComplete
+D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\.vs\TCE.TESTE.LIVRARIA\lut\0\i\TCE.Teste.Livraria.Infra.CrossCutting.Utils\Release\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.Utils.dll
