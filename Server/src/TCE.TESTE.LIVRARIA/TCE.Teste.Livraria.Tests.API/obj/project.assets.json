@@ -13413,11 +13413,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Tests.API\\TCE.Teste.Livraria.Tests.API.csproj",
+      "projectUniqueName": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Tests.API\\TCE.Teste.Livraria.Tests.API.csproj",
       "projectName": "TCE.Teste.Livraria.Tests.API",
-      "projectPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Tests.API\\TCE.Teste.Livraria.Tests.API.csproj",
+      "projectPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Tests.API\\TCE.Teste.Livraria.Tests.API.csproj",
       "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-      "outputPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Tests.API\\obj\\",
+      "outputPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Tests.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13436,14 +13436,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\TCE.Teste.Livraria.Domain.csproj": {
-              "projectPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\TCE.Teste.Livraria.Domain.csproj"
+            "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\TCE.Teste.Livraria.Domain.csproj": {
+              "projectPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\TCE.Teste.Livraria.Domain.csproj"
             },
-            "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.Data\\TCE.Teste.Livraria.Infra.Data.csproj": {
-              "projectPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.Data\\TCE.Teste.Livraria.Infra.Data.csproj"
+            "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.Data\\TCE.Teste.Livraria.Infra.Data.csproj": {
+              "projectPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.Data\\TCE.Teste.Livraria.Infra.Data.csproj"
             },
-            "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Services.Api\\TCE.Teste.Livraria.Services.Api.csproj": {
-              "projectPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Services.Api\\TCE.Teste.Livraria.Services.Api.csproj"
+            "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Services.Api\\TCE.Teste.Livraria.Services.Api.csproj": {
+              "projectPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Services.Api\\TCE.Teste.Livraria.Services.Api.csproj"
             }
           }
         }

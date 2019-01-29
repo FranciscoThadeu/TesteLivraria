@@ -4140,11 +4140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.csproj",
+      "projectUniqueName": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.csproj",
       "projectName": "TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters",
-      "projectPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.csproj",
+      "projectPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.csproj",
       "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-      "outputPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\\obj\\",
+      "outputPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

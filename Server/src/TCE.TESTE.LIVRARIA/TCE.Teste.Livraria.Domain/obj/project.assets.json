@@ -352,11 +352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\TCE.Teste.Livraria.Domain.csproj",
+      "projectUniqueName": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\TCE.Teste.Livraria.Domain.csproj",
       "projectName": "TCE.Teste.Livraria.Domain",
-      "projectPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\TCE.Teste.Livraria.Domain.csproj",
+      "projectPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\TCE.Teste.Livraria.Domain.csproj",
       "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-      "outputPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\obj\\",
+      "outputPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -375,8 +375,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\TCE.Teste.Livraria.Domain.Core.csproj": {
-              "projectPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\TCE.Teste.Livraria.Domain.Core.csproj"
+            "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\TCE.Teste.Livraria.Domain.Core.csproj": {
+              "projectPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\TCE.Teste.Livraria.Domain.Core.csproj"
             }
           }
         }

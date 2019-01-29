@@ -3902,11 +3902,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.Data\\TCE.Teste.Livraria.Infra.Data.csproj",
+      "projectUniqueName": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.Data\\TCE.Teste.Livraria.Infra.Data.csproj",
       "projectName": "TCE.Teste.Livraria.Infra.Data",
-      "projectPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.Data\\TCE.Teste.Livraria.Infra.Data.csproj",
+      "projectPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.Data\\TCE.Teste.Livraria.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-      "outputPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.Data\\obj\\",
+      "outputPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3925,11 +3925,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\TCE.Teste.Livraria.Domain.Core.csproj": {
-              "projectPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\TCE.Teste.Livraria.Domain.Core.csproj"
+            "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\TCE.Teste.Livraria.Domain.Core.csproj": {
+              "projectPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\TCE.Teste.Livraria.Domain.Core.csproj"
             },
-            "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\TCE.Teste.Livraria.Domain.csproj": {
-              "projectPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\TCE.Teste.Livraria.Domain.csproj"
+            "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\TCE.Teste.Livraria.Domain.csproj": {
+              "projectPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain\\TCE.Teste.Livraria.Domain.csproj"
             }
           }
         }

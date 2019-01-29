@@ -24,3 +24,12 @@ D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.A
 D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.AssemblyInfo.cs
 D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.dll
 D:\TESTE.LIVRARIA\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.pdb
+E:\GITHUB\REPOSITORY\TesteLivraria\Server\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\bin\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.deps.json
+E:\GITHUB\REPOSITORY\TesteLivraria\Server\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\bin\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.dll
+E:\GITHUB\REPOSITORY\TesteLivraria\Server\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\bin\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.pdb
+E:\GITHUB\REPOSITORY\TesteLivraria\Server\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.csprojAssemblyReference.cache
+E:\GITHUB\REPOSITORY\TesteLivraria\Server\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.csproj.CoreCompileInputs.cache
+E:\GITHUB\REPOSITORY\TesteLivraria\Server\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.AssemblyInfoInputs.cache
+E:\GITHUB\REPOSITORY\TesteLivraria\Server\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.AssemblyInfo.cs
+E:\GITHUB\REPOSITORY\TesteLivraria\Server\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.dll
+E:\GITHUB\REPOSITORY\TesteLivraria\Server\src\TCE.TESTE.LIVRARIA\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\TCE.Teste.Livraria.Infra.CrossCutting.AspNetFilters.pdb

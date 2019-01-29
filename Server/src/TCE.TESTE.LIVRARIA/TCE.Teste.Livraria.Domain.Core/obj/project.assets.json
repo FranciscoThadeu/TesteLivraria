@@ -333,11 +333,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\TCE.Teste.Livraria.Domain.Core.csproj",
+      "projectUniqueName": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\TCE.Teste.Livraria.Domain.Core.csproj",
       "projectName": "TCE.Teste.Livraria.Domain.Core",
-      "projectPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\TCE.Teste.Livraria.Domain.Core.csproj",
+      "projectPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\TCE.Teste.Livraria.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-      "outputPath": "D:\\TESTE.LIVRARIA\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\obj\\",
+      "outputPath": "E:\\GITHUB\\REPOSITORY\\TesteLivraria\\Server\\src\\TCE.TESTE.LIVRARIA\\TCE.Teste.Livraria.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,6 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using System;
+using System.Collections;
 using System.Linq;
 using TCE.Teste.Livraria.Domain.Core.Notifications;
 using TCE.Teste.Livraria.Domain.Interfaces;
@@ -24,13 +25,28 @@ namespace TCE.Teste.Livraria.Services.Api.Controllers
 
         protected new IActionResult Response(object result = null)
         {
+            var collection = result as ICollection;
+           
+
             if (OperacaoValida())
             {
-                return Ok(new
+                if (collection == null || collection.Count == 0)
                 {
-                    success = true,
-                    data = result
-                });
+                    return NotFound(new
+                    {
+                        success = false,
+                        data = "Dados não encontrados"
+                    });
+
+                }
+                else
+                {
+                    return Ok(new
+                    {
+                        success = true,
+                        data = result
+                    });
+                }
             }
 
             return BadRequest(new

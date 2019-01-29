@@ -9,6 +9,7 @@ using TCE.Teste.Livraria.Domain.Livros.Repository;
 using TCE.Teste.Livraria.Domain.Core.Notifications;
 using TCE.Teste.Livraria.Services.Api.ViewModels;
 using TCE.Teste.Livraria.Domain.Livros.Commands;
+using System.Linq;
 
 namespace TCE.Teste.Livraria.Services.Api.Controllers
 {
@@ -114,7 +115,43 @@ namespace TCE.Teste.Livraria.Services.Api.Controllers
             var livroCommand = _mapper.Map<LivroViewModel>(_livroRepository.ObterPorIsbn(isbn));
             return Response(livroCommand);
         }
-   
+
+
+        /// <summary>
+        /// Buscar
+        /// </summary>
+        /// <param name="isbn"> ISBN 
+        /// <param name="autor"> Nome do Autor 
+        /// <param name="nome"> Nome do Livro 
+        /// </param>
+        [HttpGet]
+        [AllowAnonymous]
+        [Route("livros/Find")]
+        public IActionResult Find(string isbn = null, string autor= null, string nome= null)
+        {
+
+            var livroCommand = _mapper.Map<IEnumerable<LivroViewModel>>(_livroRepository.ObterTodos());
+
+            if (livroCommand.Any())
+            {
+                if (isbn != null)
+                {
+                    livroCommand = livroCommand.Where(c => c.Isbn == isbn);
+                }
+
+                if (autor != null)
+                {
+                    livroCommand = livroCommand.Where(c => c.Autor == autor);
+                }
+
+                if (nome != null)
+                {
+                    livroCommand = livroCommand.Where(c => c.Nome == nome);
+                }
+            }
+            return Response(livroCommand);
+        }
+
 
         private bool ModelStateValida()
         {
